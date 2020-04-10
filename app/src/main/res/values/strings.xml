@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">VIRTUAL EYE</string>
+    <string name="upload">UPLOAD</string>
+    <string name="show_uploads">SHOW UPLOADS</string>
+    <string name="caption">CAPTION</string>
+    <string name="choose_file">GALLERY</string>
+    <string name="description">DESCRIPTION</string>
+    <string name="camera">CAMERA</string>
+    <string name="generate_caption">GENERATE CAPTION</string>
+    <string name="caption_placeholder">CAPTION</string>
+    <string name="narrate">NARRATE</string>
+</resources>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "680839363463",
+    "firebase_url": "https://virtualeye-8c085.firebaseio.com",
+    "project_id": "virtualeye-8c085",
+    "storage_bucket": "virtualeye-8c085.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680839363463:android:9887e660075bf2e412b122",
+        "android_client_info": {
+          "package_name": "com.example.firebaseupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680839363463-cmvf7dikltlhbon52nl06gtc52qo0mu9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXVYQHQk02RalM2nwQE1fGKDDn-gtJdp0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680839363463-cmvf7dikltlhbon52nl06gtc52qo0mu9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
